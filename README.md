@@ -28,7 +28,7 @@ Visual Studio will work best at a resolution of 1920 by 1080 or higher.
 
 **Version 1**
 
-This application serves as a solution to the Portfolio of Evidence Task 1 given in PROG6221, BCA2, Varsity College,.
+This application serves as a solution to the Portfolio of Evidence Task 2 given in PROG6221, BCA2, Varsity College,.
 
 ## How to Compile and Run the application
 
