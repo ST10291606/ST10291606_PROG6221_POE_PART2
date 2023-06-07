@@ -3,6 +3,10 @@
 
 ## Aron's Recipe Application
 
+# Feedback implementation:
+I was asked to implement exception handling as part of my feedback. In implementing exception handling in our code, we have followed the advice of the lecturer to ensure robustness and error resilience. By enclosing the critical sections of our code within try-catch blocks, we can catch and handle exceptions that may occur during runtime. This approach enables us to gracefully handle unforeseen errors and prevents the application from crashing. We have also included a generic catch block to capture any exception that might arise, displaying an informative error message to the user. This implementation aligns with best practices in software development, enhancing the reliability and user experience of our application. Through proactive exception handling, we demonstrate our commitment to producing robust and fault-tolerant software systems.
+
+
 Minimum Requirements 
 
 Operating system
