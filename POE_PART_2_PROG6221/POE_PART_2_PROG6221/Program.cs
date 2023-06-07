@@ -29,29 +29,44 @@ namespace RecipeApp
 
             string option = Console.ReadLine(); // Read user input for selected option
 
-            switch (option)
+            bool exit = false;
+
+            while (!exit)
             {
-                case "1":
-                    AddRecipe(); // Call method to add a recipe
-                    goto repeat;
-                case "2":
-                    DisplayRecipes(); // Call method to display recipes
-                    goto repeat;
-                case "3":
-                    ScaleRecipe(); // Call method to scale a recipe
-                    goto repeat;
-                case "4":
-                    ResetRecipeAmounts(); // Call method to reset recipe amounts
-                    goto repeat;
-                case "5":
-                    ClearRecipe(); // Call method to clear a recipe
-                    goto repeat;
-                case "6":
-                    Console.WriteLine("Exiting the application...");
-                    break;
-                default:
-                    Console.WriteLine("Invalid option. Please try again.");
-                    goto repeat;
+                try
+                {
+                    string option = Console.ReadLine(); // Read user input for selected option
+
+                    switch (option)
+                    {
+                        case "1":
+                            AddRecipe(); // Call method to add a recipe
+                            goto repeat;
+                        case "2":
+                            DisplayRecipes(); // Call method to display recipes
+                            goto repeat;
+                        case "3":
+                            ScaleRecipe(); // Call method to scale a recipe
+                            goto repeat;
+                        case "4":
+                            ResetRecipeAmounts(); // Call method to reset recipe amounts
+                            goto repeat;
+                        case "5":
+                            ClearRecipe(); // Call method to clear a recipe
+                            goto repeat;
+                        case "6":
+                            Console.WriteLine("Exiting the application...");
+                            exit = true;
+                            break;
+                        default:
+                            Console.WriteLine("Invalid option. Please try again.");
+                            goto repeat;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("\nAn error occurred: " + ex.Message);
+                }
             }
         }
 
