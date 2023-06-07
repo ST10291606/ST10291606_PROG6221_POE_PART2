@@ -1,0 +1,15 @@
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\bin\Debug\net6.0\POE_PART_2_PROG6221.exe
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\bin\Debug\net6.0\POE_PART_2_PROG6221.deps.json
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\bin\Debug\net6.0\POE_PART_2_PROG6221.runtimeconfig.json
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\bin\Debug\net6.0\POE_PART_2_PROG6221.dll
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\bin\Debug\net6.0\POE_PART_2_PROG6221.pdb
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.csproj.AssemblyReference.cache
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.AssemblyInfoInputs.cache
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.AssemblyInfo.cs
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.csproj.CoreCompileInputs.cache
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.dll
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\refint\POE_PART_2_PROG6221.dll
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.pdb
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\POE_PART_2_PROG6221.genruntimeconfig.cache
+C:\Users\Aron McDonald\source\repos\POE_PART_2_PROG6221\POE_PART_2_PROG6221\obj\Debug\net6.0\ref\POE_PART_2_PROG6221.dll
