@@ -78,6 +78,14 @@ learn.microsoft.com, 2023. learn.microsoft.com. [Online]
 Available at: https://learn.microsoft.com/en-us/dotnet/api/system.text.regularexpressions.regex?view=net-8.0
 [Accessed 28 April 2023].
 
+w3schools.com, 2023. w3schools.com. [Online] 
+Available at: https://www.w3schools.com/cs/cs_enums.php
+[Accessed 7 June 2023].
+
+w3schools.com, 2023. w3schools.com. [Online] 
+Available at: https://www.w3schools.blog/c-sharp-list
+[Accessed 7 June 2023].
+
 
 ## License & Copyright
 
